@@ -22,7 +22,7 @@ The code should validate for each input and at least one character type should b
 Once prompts are answered, then the password should be generated and displayed in an alert, or written to the page
 
 ## Usage
-URL of the Deployed Application :
+URL of the Deployed Application : https://jimbobster.github.io/Password-Generator/
 
 URL of the Repository that contains the Code : https://github.com/Jimbobster/Password-Generator
 
