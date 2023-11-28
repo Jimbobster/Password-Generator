@@ -87,22 +87,11 @@ function generatePassword() {
     guaranteedCharacters.push(getRandom(possibleCharacters));
   }
 
+  // Shuffle the characters to make the password more random
+  guaranteedCharacters = guaranteedCharacters.sort(() => Math.random() - 0.5);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  // Convert the array to a string
+  return guaranteedCharacters.join('');
 }
  
 // Get references to the #generate element
