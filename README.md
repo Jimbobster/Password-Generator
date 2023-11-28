@@ -26,7 +26,7 @@ URL of the Deployed Application : [https://jimbobster.github.io/Password-Generat
 
 URL of the Repository that contains the Code : https://github.com/Jimbobster/Password-Generator
 
-Screenshot : [(https://github.com/Jimbobster/Password-Generator/blob/main/Screenshot.png)] https://github.com/Jimbobster/Password-Generator/blob/main/Screenshot.png
+Screenshot : https://github.com/Jimbobster/Password-Generator/blob/main/Screenshot.png
 
 ## Credits
 N/A
